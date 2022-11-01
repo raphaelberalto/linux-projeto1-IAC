@@ -43,7 +43,7 @@ usermod -g GRP_SEC josefina
 usermod -g GRP_SEC amanda
 usermod -g GRP_SEC rogerio
 
-# Sexta etapa: alterando permissões de diretórios" #
+# Sexta etapa: alterando permissões de diretórios #
 
 chmod 777 /publico/
 chmod 770 /adm/
